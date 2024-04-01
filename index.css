@@ -29,3 +29,7 @@ img {
   width: 25%;
   display: inline-block;
 }
+
+main div {
+  display: inline-block;
+}
