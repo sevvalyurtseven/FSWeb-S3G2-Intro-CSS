@@ -33,4 +33,5 @@ img {
 main div {
   display: inline-block;
   width: 73%;
+  text-align: center;
 }
