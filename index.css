@@ -24,3 +24,7 @@ nav a:last-child {
   margin-right: 0;
   margin-left: 126px;
 }
+
+img {
+  width: 25%;
+}
