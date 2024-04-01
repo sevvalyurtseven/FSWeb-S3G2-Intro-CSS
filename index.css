@@ -25,6 +25,10 @@ nav a:last-child {
   margin-left: 126px;
 }
 
+main {
+  padding-top: 50px;
+}
+
 img {
   width: 25%;
   height: 180px;
