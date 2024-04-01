@@ -51,3 +51,9 @@ main div {
 h1 {
   margin-top: 0;
 }
+
+.background_kahve {
+  background-color: #ddb9a3;
+  padding: 10px;
+  color: white;
+}
