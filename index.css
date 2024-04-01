@@ -10,19 +10,21 @@ nav a {
   padding: 15px 13px;
   border-radius: 5px;
   display: inline-block; /* a taglerini block olarak ayarladık */
-  margin: 0 63px;
+  margin: 0 73px;
+  width: 80px;
+  text-align: center;
 }
 
 nav a:first-child {
   background-color: #5ed3eb;
-  margin-left: 0;
-  margin-right: 126px;
+  margin-left: 20px;
+  margin-right: 106px;
 }
 
 nav a:last-child {
   background-color: #ffcd69;
-  margin-right: 0;
-  margin-left: 126px;
+  margin-right: 20px;
+  margin-left: 106px;
 }
 
 main {
