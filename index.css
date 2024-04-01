@@ -33,7 +33,7 @@ main {
   padding-top: 50px;
 }
 
-img {
+main img {
   width: 25%;
   height: 180px;
   display: inline-block;
@@ -67,4 +67,14 @@ h1 {
 .features-row {
   width: 40%;
   margin: 10px auto;
+  text-align: center;
+}
+
+.features-row p {
+  margin: 0;
+}
+
+.features-row img {
+  width: 100px;
+  margin-top: 20px;
 }
