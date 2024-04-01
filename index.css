@@ -13,12 +13,14 @@ nav a {
   margin: 0 73px;
   width: 80px;
   text-align: center;
+  vertical-align: middle;
 }
 
 nav a:first-child {
   background-color: #5ed3eb;
   margin-left: 20px;
   margin-right: 106px;
+  padding: 8px 13px;
 }
 
 nav a:last-child {
