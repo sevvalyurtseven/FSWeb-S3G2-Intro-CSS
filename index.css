@@ -56,9 +56,10 @@ h1 {
   background-color: #ddb9a3;
   padding: 10px;
   color: white;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .background_kahve p {
   margin: 0;
+  text-align: center;
 }
