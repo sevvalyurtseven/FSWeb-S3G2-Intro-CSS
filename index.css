@@ -1,3 +1,8 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
 .container {
   width: 750px; /*tasarim icin belirlenen alan */
   margin: 0 auto; /* width yüzünden en soldan baslanan tasarimi ortaladik */
@@ -66,7 +71,7 @@ h1 {
 
 .features-row {
   width: 40%;
-  margin: 10px auto;
+  margin: 100px auto;
   text-align: center;
 }
 
@@ -76,5 +81,17 @@ h1 {
 
 .features-row img {
   width: 100px;
+}
+
+footer img {
+  width: 100%;
+  height: 250px;
+}
+
+footer {
+  background-color: #f9e7dc;
+}
+
+footer nav a {
   margin-top: 20px;
 }
