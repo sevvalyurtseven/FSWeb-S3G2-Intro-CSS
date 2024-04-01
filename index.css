@@ -27,4 +27,5 @@ nav a:last-child {
 
 img {
   width: 25%;
+  display: inline-block;
 }
